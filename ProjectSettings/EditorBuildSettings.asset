@@ -1,0 +1,215 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main_Menu.unity
+    guid: 6dbe16bfb888ef54a82fbd766ed87bde
+  - enabled: 1
+    path: Assets/Tracing_Game_Start.unity
+    guid: 99160eae82f84ee4bbc3fea165d38490
+  - enabled: 1
+    path: Assets/AR_Flash_Cards.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Quiz_Time.unity
+    guid: ce45a25704b02014c816870c12d63c12
+  - enabled: 1
+    path: Assets/ScenesTracing/Numbers.unity
+    guid: 70d34282b44592d45b4a7b896f947399
+  - enabled: 1
+    path: Assets/ScenesTracing/Small Letters.unity
+    guid: 3f162a04dd36eea42b9617bd8289aa7d
+  - enabled: 1
+    path: Assets/ScenesTracing/Big Letters.unity
+    guid: aebc0ee3512497f42b251fffc0b79085
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-A.unity
+    guid: b506bc83e6567c54081c0f3a8a6bf1ba
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-B.unity
+    guid: 271862da7a48a8b41a09fadba212fd86
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-C.unity
+    guid: 9ecc13fc964c0f94ea9fb24e058ad0f6
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-D.unity
+    guid: a83113edb3f051148ae3e3c6a2bf3cba
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-E.unity
+    guid: 6fab481b7d0525f458b8d0ebcb8c189e
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-F.unity
+    guid: 19857cb8321cfb240a79bf0173a2dbcf
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-G.unity
+    guid: 301af4703223cd041b90cc802bb91660
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-H.unity
+    guid: 255a0c8d17fdf8548b1b648450c8454e
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-I.unity
+    guid: cfaa6f08d7fa9fa43a5b43e04304829b
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-J.unity
+    guid: 40fea5c2573d5d646917b4e181e24c8e
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-K.unity
+    guid: de9a232007f89c14091278cf94acca10
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-L.unity
+    guid: 93fda42e4136ed048b534f33e9c8204c
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-M.unity
+    guid: 2318101be01b68844a44be1a8a027c92
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-N.unity
+    guid: 159223dceac41e946b090e01a426ab5c
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-O.unity
+    guid: e393323577a659c4692039f918ebca3e
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-P.unity
+    guid: 6a3f65c34e9735c4694d2cd5c4d1e940
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-Q.unity
+    guid: 54c2f17a7952d69419fb5bb8a06fe138
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-R.unity
+    guid: bb82b37eeaab85c44abf4ead3fe36828
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-S.unity
+    guid: bfe4bcecdbcbe43449d91e8da18926a3
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-T.unity
+    guid: 3b7b415801a3008498df03029b2ab1a8
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-U.unity
+    guid: 7ed8fa1d4a336164fb769209e9ecb961
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-V.unity
+    guid: 4cdf4c692981cfb4b9f70a7e0d37b68d
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-W.unity
+    guid: 6779eb9f318adfb409dabd4f95384bbf
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-X.unity
+    guid: 84e2d94e80f52264788f2a60d40ba107
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-Y.unity
+    guid: 3b841b9c44b25f744a186dc55487dc11
+  - enabled: 1
+    path: Assets/Scenes/Big Letters/Letter-Z.unity
+    guid: 616ed116157cd9b46be3469ed7baf4ab
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-A.unity
+    guid: 130e8d8ad35ae0c4582a956b16502ce3
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-B.unity
+    guid: d6b298d2521a8a346944025a00532c05
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-C.unity
+    guid: 808c5f9c9c920a04396e19dd67d18b24
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-D.unity
+    guid: 6b11eafb7c90bb14ea03fc3406aec0e4
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-E.unity
+    guid: 9a42ae2fe4665c348abeefe1b56b51ff
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-F.unity
+    guid: c391dc82e8a5b864c8aa976e55a85217
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-G.unity
+    guid: 0955f67e3fefdd44cb060dfba1084801
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-H.unity
+    guid: 3887315e0b04f9e4795d127b773fda5b
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-I.unity
+    guid: 15b0f8aaa3995ff4bb12825cbe6837e2
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-J.unity
+    guid: c2abfaafa86064a4c9fbd92df3a30161
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-K.unity
+    guid: f981383a6cdb449439713a0856ab6700
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-L.unity
+    guid: b3d239ebcf689764887e6287f891828c
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-M.unity
+    guid: 7c30da7697f95964c856a9d80ea0a8a5
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-N.unity
+    guid: 2567b5d99bbb38649ad0464ec38272fb
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-O.unity
+    guid: a99f34b383906b043a8a2701b0e3c50f
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-P.unity
+    guid: ad864ce897643094aa68cdafe71e6b95
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-Q.unity
+    guid: 562cf26af142e4043b8a243e4cd19ed9
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-R.unity
+    guid: f5ea68b03011f8b4cab96d7cdce137a8
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-S.unity
+    guid: b82366a3fed2a48419eefee4d7924984
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-T.unity
+    guid: 69d02a3dad77e524e9d1388e4dc7640e
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-U.unity
+    guid: e8464127d20f80144b0becf3689e0502
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-V.unity
+    guid: cf34950d1cb100f4c8fcdc271883c018
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-W.unity
+    guid: 7ffeb0d68ce31ca4e9110983631e5f1d
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-X.unity
+    guid: 0ea5b4a1bb0428a468fbc09a48d12c2f
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-Y.unity
+    guid: 38add5af3b996ab44b06940b6d549732
+  - enabled: 1
+    path: Assets/Scenes/Small Letters/SmallLetter-Z.unity
+    guid: 918d16f0bf124344a839153f22a48d7b
+  - enabled: 1
+    path: Assets/Scenes/Numbers/Number-0.unity
+    guid: 1d7e89708b462c4459e8786a7f5e3996
+  - enabled: 1
+    path: Assets/Scenes/Numbers/Number-1.unity
+    guid: 01cb5bb0897fbd84db096bdfee0a22cf
+  - enabled: 1
+    path: Assets/Scenes/Numbers/Number-2.unity
+    guid: 1f412a981d0ea1e4b90714168ebf3259
+  - enabled: 1
+    path: Assets/Scenes/Numbers/Number-3.unity
+    guid: 6a63d40efe93c274399071d8c4f7c9ba
+  - enabled: 1
+    path: Assets/Scenes/Numbers/Number-4.unity
+    guid: 5bea59846ffe2d54ea906489dc3bd658
+  - enabled: 1
+    path: Assets/Scenes/Numbers/Number-5.unity
+    guid: ae382e8db4ec0a149a4485ac3bdfc39d
+  - enabled: 1
+    path: Assets/Scenes/Numbers/Number-6.unity
+    guid: 1e5df68dabbe02e4bab899b117ec241b
+  - enabled: 1
+    path: Assets/Scenes/Numbers/Number-7.unity
+    guid: 0429454e5194c5a45a3d1348e2729668
+  - enabled: 1
+    path: Assets/Scenes/Numbers/Number-8.unity
+    guid: 2cd830489bf2f914f95d22b6ecb7bd3b
+  - enabled: 1
+    path: Assets/Scenes/Numbers/Number-9.unity
+    guid: 12b625549b5ceb048a0e4ce2e39a7e89
+  m_configObjects: {}
